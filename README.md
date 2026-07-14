@@ -51,7 +51,7 @@ This project demonstrates the concept of **Li-Fi (Light Fidelity)** communicatio
 
 ## System Architecture
 
-(Add Image Here)
+![image alt](https://github.com/jhm-lgtm/Li-Fi-Enabled-Secure-Communication-for-Submarines/blob/b5ca725ea4c8cbcdca2fc941c0d9e8384c1335b1/Gemini_Generated_Image_x5lvotx5lvotx5lv.png)
 
 ---
 
